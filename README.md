@@ -4,25 +4,21 @@
 Computer Engineering student at Pontifical Catholic University of Minas Gerais and working at Uol Compass. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. I support an work environment based on organization, coordination and teamwork.
 
 <p>Main Platforms</p>
-
-<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
-<img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-</a>
-<a>
   
 <a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 </a>
 <a>
 
-
 <a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
 <img alt="VS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </a>
 <a>
 
- 
-  
+<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</a>
+<a>
 
 <p>Main Lenguages</p>
 <a href="mailto:rafaelbrandaobastos@gmail.com"> 
