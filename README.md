@@ -10,6 +10,11 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais. 
 </a>
 
 <a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</a>
+<a>
+
+<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
 <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 <a>
@@ -24,10 +29,7 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais. 
 </a>
 <a>
  
-<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-</a>
-<a>
+
  
   
 <p>Contact Me</p>
