@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Computer Engineering student at Pontifical Catholic University of Minas Gerais. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. I support an work environment based on organization, coordination and teamwork.
+Computer Engineering student at Pontifical Catholic University of Minas Gerais and working at Uol Compass. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. I support an work environment based on organization, coordination and teamwork.
 
 
 <p>Main Lenguages</p>
@@ -28,9 +28,12 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais. 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a>
- 
 
- 
+<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
+</a>
+<a>
+
   
 <p>Contact Me</p>
 <a href="mailto:rafaelbrandaobastos@gmail.com"> 
