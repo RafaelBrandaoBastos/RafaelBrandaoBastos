@@ -45,8 +45,11 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 </a>
 <a>
 
+<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<img alt="React" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+</a>
+<a>
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green
   
 <p>Contact Me</p>
 <a href="mailto:rafaelbrandaobastos@gmail.com"> 
