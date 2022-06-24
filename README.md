@@ -19,11 +19,12 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <img alt="Visual" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </a>
 <a>
- </p>  
+</p>  
   
   
  
 <p>Main Lenguages</p>
+<p>
 <a href="mailto:rafaelbrandaobastos@gmail.com"> 
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
@@ -47,10 +48,11 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a>
-
+</p>
+ 
   
 <p>Contact Me</p>
-
+<p>
 <a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
 <img alt="Lk" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -58,7 +60,7 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <a href="mailto:rafaelbrandaobastos@gmail.com"> 
 <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
+</p>
   
   
 
