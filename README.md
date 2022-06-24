@@ -9,11 +9,6 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <img alt="VS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </a>
 <a>
-   
-<a href=""> 
-<img alt="Azure" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-</a>
-<a>
 
 <a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
