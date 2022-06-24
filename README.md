@@ -15,6 +15,14 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 </a>
 <a>
 
+<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<img alt="Visual" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+</a>
+<a>
+  
+  
+  
+ 
 <p>Main Lenguages</p>
 <a href="mailto:rafaelbrandaobastos@gmail.com"> 
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
