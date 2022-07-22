@@ -25,26 +25,26 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
  
 <p>Main Lenguages</p>
 <p>
-<a href="mailto:rafaelbrandaobastos@gmail.com"> 
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<a href="https://pt.wikipedia.org/wiki/C%2B%2B"> 
 <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </a>
 <a>
 
-<a href=""> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML"> 
 <img alt="Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </a>
 <a>
   
-<a href=""> 
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1"/>
 </a>
 <a>
   
-<a href=""> 
+<a href="https://pt-br.reactjs.org/"> 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a>
