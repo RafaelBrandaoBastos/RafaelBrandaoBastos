@@ -5,17 +5,17 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 
 <p>Main Platforms</p>
 <p>
-<a href=""> 
+<a href="https://visualstudio.microsoft.com/pt-br/downloads/"> 
 <img alt="VS" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </a>
 <a>
 
-<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<a href="https://azure.microsoft.com/pt-br/services/cognitive-services/"> 
 <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
 </a>
 <a>
 
-<a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
+<a href="https://visualstudio.microsoft.com/pt-br/downloads/"> 
 <img alt="Visual" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
 </a>
 <a>
