@@ -54,5 +54,5 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p> 
-<img alt="" src="https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green"/>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username={RafaelBrandaoBastos}&theme=blue-green"/>
 
