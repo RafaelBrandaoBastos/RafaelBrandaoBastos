@@ -19,13 +19,13 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 </a>
 <a>
  
-<a href=" https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+<a href="https://www.w3schools.com/css/"> 
 <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </a>
 <a> 
   
 
-<a href="https://www.w3schools.com/css//"> 
+<a href="https://pt-br.reactjs.org/"> 
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a>
