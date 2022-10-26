@@ -48,5 +48,5 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 </a>
 </p>
   
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=RafaelBrandaoBastos&theme=blue-green"/>
+
 
