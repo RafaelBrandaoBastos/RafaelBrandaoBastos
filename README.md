@@ -6,7 +6,7 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <p>Main Lenguages</p>
 <p>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img alt="C" src="[https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)"/>
 </a>
 
 <a href="https://pt.wikipedia.org/wiki/C%2B%2B"> 
