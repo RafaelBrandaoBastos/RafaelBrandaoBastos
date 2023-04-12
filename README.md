@@ -6,7 +6,7 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <p>Main Lenguages</p>
 <p>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
-<img alt="C" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green"/>
+<img alt="C" src="https://github-readme-stats.vercel.app/api/top-langs/?username={RafaelBrandaoBastos}&theme=blue-green"/>
 </a>
 
 <a href="https://pt.wikipedia.org/wiki/C%2B%2B"> 
