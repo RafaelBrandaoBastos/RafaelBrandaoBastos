@@ -28,6 +28,11 @@ Computer Engineering student at Pontifical Catholic University of Minas Gerais a
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 </a>
 <a>
+ 
+ <a href="https://vuejs.org/guide/introduction.html#what-is-vue"> 
+<img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+</a>
+<a>
   
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"> 
 <img alt="JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1"/>
