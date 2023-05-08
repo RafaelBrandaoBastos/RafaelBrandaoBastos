@@ -3,7 +3,7 @@
 
 Computer Engineering student at Pontifical Catholic University of Minas Gerais and working at Uol Compass. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. I support an work environment based on organization, coordination and teamwork.
 
-<p>Main Lenguages</p>
+<p>Main Skills</p>
 <p>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
