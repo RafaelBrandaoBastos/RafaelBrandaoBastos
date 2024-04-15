@@ -5,7 +5,7 @@ Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated
 
 <p>Main Skills</p>
 
-<p>
+
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"> 
 <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 </a>
@@ -44,7 +44,7 @@ Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated
 <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </a>
 <a> 
-</p>
+
  
   
 <p>Contact Me</p>
