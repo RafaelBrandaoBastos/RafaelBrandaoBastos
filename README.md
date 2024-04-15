@@ -21,10 +21,6 @@ Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated
 <a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
 <img alt="Lk" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:rafaelbrandaobastos@gmail.com"> 
-<img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
 </p>
   
 
