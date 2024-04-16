@@ -2,7 +2,7 @@
 
 
 Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. 
-
+https://github-readme-stats.vercel.app/api/top-langs/?username={rafaelbrandaobastos}&theme=blue-green
 <p>Main Skills</p>
 
 <p>
