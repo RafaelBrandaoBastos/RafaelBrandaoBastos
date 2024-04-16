@@ -15,6 +15,7 @@ Main Skills
 
   
 Contact Me
+
 <a href="https://www.linkedin.com/in/rafaelbrandaobastos/"> 
 <img alt="Lk" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
