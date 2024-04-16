@@ -2,7 +2,7 @@
 
 
 Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBrandaoBastos&theme=blue-green"/>
+
 <p>Main Skills</p>
 
 <p>
@@ -14,7 +14,7 @@ Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated
 <img alt="Vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
 </p>
 
- 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBrandaoBastos&theme=blue-green"/>
   
 <p>Contact Me</p>
 <p>
