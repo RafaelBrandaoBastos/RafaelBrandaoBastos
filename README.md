@@ -21,8 +21,6 @@ Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated
 <img alt="Lk" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBrandaoBastos&theme=blue-green"/>
   
 
 
