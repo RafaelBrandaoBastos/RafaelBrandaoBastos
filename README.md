@@ -2,7 +2,7 @@
 
 
 Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. 
-
+https://www.linkedin.com/in/rafaelbrandaobastos/
 Main Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
