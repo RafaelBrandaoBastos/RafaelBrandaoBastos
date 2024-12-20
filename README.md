@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Computer Engineering student at PUC Minas and working at Uol Compass. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. 
+Computer Engineering student at PUC Minas and working at Compass UOL. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. 
 
 Main Skills
 
