@@ -17,6 +17,8 @@ Contact Me
 https://www.linkedin.com/in/rafaelbrandaobastos/
 
 
+![GitHub User's stars](https://img.shields.io/github/stars/RafaelBrandaoBastos)
+
   
 
 
