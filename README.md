@@ -2,6 +2,7 @@
 
 
 Computer Engineering student at PUC Minas. Fascinated by scientific discoveries, the development of new technologies (both Hardware and Software) and the advances that they bring to society. 
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBrandaoBastos\&layout=compact)
 <!--
 [Main Skills
